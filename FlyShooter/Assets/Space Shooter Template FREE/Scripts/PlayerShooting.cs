@@ -7,8 +7,8 @@ using UnityEngine;
 [System.Serializable]
 public class Guns
 {
-    public GameObject rightGun, leftGun, centralGun;
-    [HideInInspector] public ParticleSystem leftGunVFX, rightGunVFX, centralGunVFX; 
+    public GameObject  centralGun;
+    [HideInInspector] public ParticleSystem centralGunVFX; 
 }
 
 public class PlayerShooting : MonoBehaviour {
@@ -40,8 +40,7 @@ public class PlayerShooting : MonoBehaviour {
     private void Start()
     {
         //receiving shooting visual effects components
-        guns.leftGunVFX = guns.leftGun.GetComponent<ParticleSystem>();
-        guns.rightGunVFX = guns.rightGun.GetComponent<ParticleSystem>();
+        
         guns.centralGunVFX = guns.centralGun.GetComponent<ParticleSystem>();
     }
 
@@ -66,27 +65,14 @@ public class PlayerShooting : MonoBehaviour {
                 CreateLazerShot(projectileObject, guns.centralGun.transform.position, Vector3.zero);
                 guns.centralGunVFX.Play();
                 break;
-            case 2:
-                CreateLazerShot(projectileObject, guns.rightGun.transform.position, Vector3.zero);
-                guns.leftGunVFX.Play();
-                CreateLazerShot(projectileObject, guns.leftGun.transform.position, Vector3.zero);
-                guns.rightGunVFX.Play();
-                break;
+            
             case 3:
                 CreateLazerShot(projectileObject, guns.centralGun.transform.position, Vector3.zero);
-                CreateLazerShot(projectileObject, guns.rightGun.transform.position, new Vector3(0, 0, -5));
-                guns.leftGunVFX.Play();
-                CreateLazerShot(projectileObject, guns.leftGun.transform.position, new Vector3(0, 0, 5));
-                guns.rightGunVFX.Play();
+               
                 break;
             case 4:
                 CreateLazerShot(projectileObject, guns.centralGun.transform.position, Vector3.zero);
-                CreateLazerShot(projectileObject, guns.rightGun.transform.position, new Vector3(0, 0, -5));
-                guns.leftGunVFX.Play();
-                CreateLazerShot(projectileObject, guns.leftGun.transform.position, new Vector3(0, 0, 5));
-                guns.rightGunVFX.Play();
-                CreateLazerShot(projectileObject, guns.leftGun.transform.position, new Vector3(0, 0, 15));
-                CreateLazerShot(projectileObject, guns.rightGun.transform.position, new Vector3(0, 0, -15));
+                
                 break;
         }
     }

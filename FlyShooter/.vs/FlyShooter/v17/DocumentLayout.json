@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\b\u00E0i t\u1EADp\\FlyShooter\\",
+  "WorkspaceRootPath": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\b\u00E0i t\u1EADp\\flyshooter\\assets\\scrpit\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\git repo\\laptrinhgame\\laptrinhgame\\flyshooter\\assets\\space shooter template free\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\space shooter template free\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\scrpit\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\scrpit\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\b\u00E0i t\u1EADp\\FlyShooter\\assets\\scrpit\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\scrpit\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\scrpit\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,36 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\b\u00E0i t\u1EADp\\FlyShooter\\Assets\\Scrpit\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scrpit\\PlayerMovement.cs",
-              "ToolTip": "D:\\b\u00E0i t\u1EADp\\FlyShooter\\Assets\\Scrpit\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scrpit\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:36:48.921Z",
+              "WhenOpened": "2026-01-23T03:12:42.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrpit\\PlayerMovement.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scrpit\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:36:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ShowLog.cs",
-              "DocumentMoniker": "D:\\b\u00E0i t\u1EADp\\FlyShooter\\Assets\\Scrpit\\ShowLog.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\ShowLog.cs",
               "RelativeDocumentMoniker": "Assets\\Scrpit\\ShowLog.cs",
-              "ToolTip": "D:\\b\u00E0i t\u1EADp\\FlyShooter\\Assets\\Scrpit\\ShowLog.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\ShowLog.cs",
               "RelativeToolTip": "Assets\\Scrpit\\ShowLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T14:34:41.324Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
