@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 9664
+  controlID: 7914
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -88,10 +88,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -432
-    m_HBaseRangeMax: 432
-    m_VBaseRangeMin: -768
-    m_VBaseRangeMax: 768
+    m_HBaseRangeMin: -259.1
+    m_HBaseRangeMax: 259.1
+    m_VBaseRangeMin: -334.9
+    m_VBaseRangeMax: 334.9
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -111,7 +111,7 @@ MonoBehaviour:
       y: 21
       width: 518.2
       height: 669.8
-    m_Scale: {x: 0.4360677, y: 0.4360677}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 259.1, y: 334.9}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -119,12 +119,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -594.1738
-      y: -768
-      width: 1188.3477
-      height: 1536
+      x: -259.1
+      y: -334.9
+      width: 518.2
+      height: 669.8
     m_MinimalGUI: 1
-  m_defaultScale: 0.4360677
+  m_defaultScale: 1
   m_LastWindowPixelSize: {x: 647.75, y: 863.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -892,7 +892,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 9705
+  controlID: 8031
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -912,7 +912,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 306.40002
-    height: 268.8
+    height: 334.4
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 8}
@@ -945,7 +945,7 @@ MonoBehaviour:
     x: 937.60004
     y: 79.200005
     width: 304.40002
-    height: 242.79999
+    height: 308.4
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -966,8 +966,16 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -18628
+      - m_Data: -17104
+      - m_Data: -17060
+      - m_Data: -16904
+      - m_Data: -14664
+      - m_Data: -13876
+      - m_Data: -12216
+      - m_Data: -8452
       - m_Data: -1318
-      - m_Data: 48610
+      - m_Data: 51392
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1009,9 +1017,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 268.8
+    y: 334.4
     width: 306.40002
-    height: 448
+    height: 382.4
   m_MinSize: {x: 232, y: 276}
   m_MaxSize: {x: 10002, y: 10026}
   m_ActualView: {fileID: 10}
@@ -1042,9 +1050,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 937.60004
-    y: 348
+    y: 413.6
     width: 304.40002
-    height: 422
+    height: 356.4
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1069,7 +1077,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Space Shooter Template FREE/Prefabs/VFX
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1091,20 +1099,21 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48898
-    - m_Data: 48900
-    - m_Data: 48902
-    - m_Data: 48904
-    - m_Data: 48906
-    - m_Data: 48908
-    - m_Data: 48910
-    - m_Data: 48912
-    - m_Data: 48914
-    - m_Data: 48918
-    - m_Data: 48920
-    - m_Data: 49260
-    - m_Data: 49270
-    - m_Data: 49306
+    - m_Data: 48926
+    - m_Data: 48928
+    - m_Data: 48930
+    - m_Data: 48932
+    - m_Data: 48934
+    - m_Data: 48938
+    - m_Data: 48940
+    - m_Data: 48942
+    - m_Data: 48944
+    - m_Data: 48946
+    - m_Data: 48950
+    - m_Data: 48952
+    - m_Data: 49288
+    - m_Data: 49396
+    - m_Data: 49644
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1131,26 +1140,28 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 552}
-    m_SelectedIDs: []
+    scrollPos: {x: 0, y: 41.600006}
+    m_SelectedIDs:
+    - m_Data: 51304
     m_LastClickedID:
-      m_Data: 0
+      m_Data: 51304
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48898
-    - m_Data: 48900
-    - m_Data: 48902
-    - m_Data: 48904
-    - m_Data: 48906
-    - m_Data: 48908
-    - m_Data: 48910
-    - m_Data: 48912
-    - m_Data: 48914
-    - m_Data: 48918
-    - m_Data: 48920
-    - m_Data: 49260
-    - m_Data: 49270
-    - m_Data: 49306
+    - m_Data: 48926
+    - m_Data: 48928
+    - m_Data: 48930
+    - m_Data: 48932
+    - m_Data: 48934
+    - m_Data: 48938
+    - m_Data: 48940
+    - m_Data: 48942
+    - m_Data: 48944
+    - m_Data: 48946
+    - m_Data: 48950
+    - m_Data: 48952
+    - m_Data: 49288
+    - m_Data: 49396
+    - m_Data: 49644
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1177,8 +1188,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 51304
+    m_LastClickedInstanceID: 51304
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -1281,7 +1293,7 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
+  m_LastInspectedObjectInstanceID: 51304
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
