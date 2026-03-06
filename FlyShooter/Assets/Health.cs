@@ -1,24 +1,24 @@
-using UnityEngine;
+﻿using UnityEngine;
+using System;                     // ← DÒNG NÀY RẤT QUAN TRỌNG
 
 public class Health : MonoBehaviour
 {
     public GameObject explosionPrefab;
     public int defaultHealthPoint = 3;
 
-    protected int healthPoint;
+    public System.Action onDead;   // ← DÒNG NÀY PHẢI CÓ
 
-    private void Start()
+    protected int currentHealthPoint;
+
+    protected virtual void Start()
     {
-        healthPoint = defaultHealthPoint;
+        currentHealthPoint = defaultHealthPoint;
     }
 
-    public void TakeDamage(int damage)
+    public virtual void TakeDamage(int damage)
     {
-        if (healthPoint <= 0) return;
-
-        healthPoint -= damage;
-
-        if (healthPoint <= 0)
+        currentHealthPoint -= damage;
+        if (currentHealthPoint <= 0)
         {
             Die();
         }
@@ -26,16 +26,10 @@ public class Health : MonoBehaviour
 
     protected virtual void Die()
     {
-        if (explosionPrefab != null)
-        {
-            var explosion = Instantiate(
-                explosionPrefab,
-                transform.position,
-                transform.rotation
-            );
-            Destroy(explosion, 1f);
-        }
-
+        var explosion = Instantiate(explosionPrefab, transform.position, transform.rotation);
+        Destroy(explosion, 1f);
         Destroy(gameObject);
+
+        onDead?.Invoke();          // ← Gọi event khi chết
     }
 }

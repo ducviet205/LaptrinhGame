@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\EnemyHealth.cs" />
+    <Compile Include="Assets\BattleFlow.cs" />
     <Compile Include="Assets\Bullet.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\RepeatingBackground.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\PlayerMoving.cs" />
