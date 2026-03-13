@@ -77,6 +77,7 @@
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Wave.cs" />
     <Compile Include="Assets\EnemyAttack.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\health1.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\LevelController.cs" />
     <Compile Include="Assets\Scrpit\PlayerMovement.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\VisualEffect.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scrpit\ShowLog.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\PlayerShooting.cs" />
+    <Compile Include="Assets\HealthBar.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Enemy.cs" />
   </ItemGroup>
   <ItemGroup>

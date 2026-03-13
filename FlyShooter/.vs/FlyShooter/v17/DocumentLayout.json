@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\git repo\\laptrinhgame\\laptrinhgame\\flyshooter\\assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\git repo\\laptrinhgame\\laptrinhgame\\flyshooter\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\git repo\\laptrinhgame\\laptrinhgame\\flyshooter\\assets\\health1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\health1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|d:\\git repo\\laptrinhgame\\laptrinhgame\\flyshooter\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF6CC8A-5FF7-5C53-E4FF-E6808F08F727}|Assembly-CSharp.csproj|D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BattleFlow.cs",
-              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\BattleFlow.cs",
-              "RelativeDocumentMoniker": "Assets\\BattleFlow.cs",
-              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\BattleFlow.cs",
-              "RelativeToolTip": "Assets\\BattleFlow.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T02:22:36.674Z",
+              "WhenOpened": "2026-03-13T01:47:15.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "health1.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\health1.cs",
+              "RelativeDocumentMoniker": "Assets\\health1.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\health1.cs",
+              "RelativeToolTip": "Assets\\health1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T01:46:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
@@ -87,12 +108,11 @@
               "RelativeToolTip": "Assets\\EnemyHealth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T02:25:22.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T02:25:22.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LevelController.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\LevelController.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\LevelController.cs",
@@ -104,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PlayerMoving.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMoving.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerMoving.cs",
@@ -116,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
@@ -128,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Bullet.cs",
@@ -140,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerHealth.cs",
@@ -153,7 +173,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "BattleFlow.cs",
+              "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\BattleFlow.cs",
+              "RelativeDocumentMoniker": "Assets\\BattleFlow.cs",
+              "ToolTip": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\BattleFlow.cs",
+              "RelativeToolTip": "Assets\\BattleFlow.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T02:22:36.674Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Health.cs",
@@ -161,12 +197,11 @@
               "RelativeToolTip": "Assets\\Health.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T01:52:46.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-04T01:52:46.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PlayerShooting.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
@@ -178,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
@@ -189,12 +224,8 @@
               "WhenOpened": "2026-02-27T02:01:55.444Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scrpit\\PlayerMovement.cs",
@@ -206,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
@@ -218,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ShowLog.cs",
               "DocumentMoniker": "D:\\Git repo\\lapTrinhGame\\LaptrinhGame\\FlyShooter\\Assets\\Scrpit\\ShowLog.cs",
               "RelativeDocumentMoniker": "Assets\\Scrpit\\ShowLog.cs",
